@@ -1,2 +1,8 @@
 # teenPlus
-Genç zihinlerin potansiyelini keşfetmek ve onlara rehberlik etmek amacıyla kurulan teen+ , bir girişimcinin vizyonunu ve bir yazılımcının becerilerini birleştirerek ortaya çıkan bir oluşumdur.
+Genç zihinlerin potansiyelini keşfetmek ve onlara rehberlik etmek amacıyla kurulan <b>teen+</b> , bir girişimcinin vizyonunu ve bir yazılımcının becerilerini birleştirerek ortaya çıkan bir oluşumdur. Şirketin temel amacı, lise öğrencileri ve üniversite öğrencileri arasında pozitif bir etki yaratmak, onları ilham veren içeriklerle buluşturmak ve bir topluluk oluşturarak karşılıklı öğrenmeyi teşvik etmektir.
+
+<b>teen+</b>'nın temel vizyonu, gençlerin potansiyelini keşfetmelerine yardımcı olmak ve onları kendi ilgi alanlarında ilerlemeye teşvik etmektir. Gençlerin kendi yeteneklerini fark etmelerine, kendilerini geliştirmelerine ve hayallerini gerçekleştirmelerine destek olmayı hedefliyoruz. Bu vizyon, onlara sadece bilgi aktarmakla kalmayacak, aynı zamanda onların yaratıcı düşünme becerilerini geliştirmelerine yardımcı olacak etkileşimli etkinliklerle de desteklenecektir.
+
+Gençlerin alanlara ilgi duymalarını sağlamak ve kariyer seçeneklerini daha iyi anlamalarına yardımcı olmak için düzenli olarak ilham veren söyleşiler ve etkinlikler düzenlemeyi amaçlamaktadır. Uzman konuşmacılar, farklı sektörlerden profesyoneller ve akademisyenler gençlerle bir araya gelerek deneyimlerini paylaşacak ve geleceğin liderlerine rehberlik edecektir. Bu etkinlikler, gençlerin kendi hedeflerini belirlemelerine ve ilgi alanlarını daha iyi anlamalarına yardımcı olacaktır.
+
+Eğitim ve teknolojiyi birleştirerek gençlerin öğrenme deneyimini dönüştürmeyi amaçlamaktadır. Aynı zamanda teknolojinin sunduğu olanakları kullanarak, gençlerin farklı alanlarda deneyim kazanmalarını sağlayacak dijital projeler ve uygulamalar da geliştirilecektir.
